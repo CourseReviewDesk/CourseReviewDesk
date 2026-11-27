@@ -20,3 +20,13 @@ For example, a reading link might open for the course author but ask a student t
 **To use this with a colleague**, download the [free editable handoff worksheet](https://coursereviewdesk.pages.dev/canvas-course-handoff-checklist/?utm_source=github&utm_medium=referral&utm_campaign=first_five&utm_content=profile_worksheet).
 
 We make CourseReview Desk for instructors who want to review Canvas content in Word. The [free example course and Word sample](https://coursereviewdesk.pages.dev/demo/?example=1&utm_source=github&utm_medium=referral&utm_campaign=first_five&utm_content=profile_demo) show what a reviewer receives. Exporting your own supported course material to Word costs $19 once.
+
+## Find the missing diagram
+
+**A three-minute activity for a faculty workshop.** An instructor is taking over a course. A diagram appears in the lesson instructions, and the incoming instructor needs to know what to check before students arrive. Anyone can run this exercise with the [free Water Systems example](https://coursereviewdesk.pages.dev/demo/?example=1&utm_source=community). No course file or account is needed.
+
+1. Open **Review notes** and type **Missing diagram** into **Find in review notes**. What can you tell from the warning alone?
+2. Clear the search and look for **field-notes.txt**. What is different about this note?
+3. Write the incoming instructor one sentence with the item, the check to perform, and who should do it. Compare answers with a colleague.
+
+**Facilitator notes.** The diagram is external or missing from the export. The warning tells you where to look, but it cannot show whether a student can see the live image. A useful handoff is “Before publishing, open the Observe and compare page in Canvas Student View and check whether the diagram loads.” The field notes file is listed as an attachment. Open that file separately to review its contents.
