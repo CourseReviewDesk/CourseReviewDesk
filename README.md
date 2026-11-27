@@ -17,9 +17,9 @@ If your reviewer works in Word, [follow the Canvas course to Word guide](https:/
 
 For example, a reading link might open for the course author but ask a student to request access. Record the module, the link label, and who will fix the permissions. Keep student names, submissions, and private course files out of public issue trackers.
 
-**To use this with a colleague**, download the [free editable handoff worksheet](https://coursereviewdesk.pages.dev/canvas-course-handoff-checklist/?utm_source=github&utm_medium=referral&utm_campaign=first_five&utm_content=profile_worksheet).
+**To use this with a colleague**, download the [free editable handoff worksheet](https://coursereviewdesk.pages.dev/canvas-course-handoff-checklist/?utm_source=community&utm_medium=referral&utm_campaign=first_five&utm_content=profile_worksheet).
 
-We make CourseReview Desk for instructors who want to review Canvas content in Word. The [free example course and Word sample](https://coursereviewdesk.pages.dev/demo/?example=1&utm_source=github&utm_medium=referral&utm_campaign=first_five&utm_content=profile_demo) show what a reviewer receives. Exporting your own supported course material to Word costs $19 once.
+We make CourseReview Desk for instructors who want to review Canvas content in Word. The [free example course and Word sample](https://coursereviewdesk.pages.dev/demo/?example=1&utm_source=community&utm_medium=referral&utm_campaign=first_five&utm_content=profile_demo) show what a reviewer receives. Exporting your own supported course material to Word costs $19 once.
 
 ## Find the missing diagram
 
